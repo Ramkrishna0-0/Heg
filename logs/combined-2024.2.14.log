@@ -1,0 +1,313 @@
+{"level":30,"time":1707916037659,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Validating config file and environment variables"}
+{"level":30,"time":1707916037736,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading commands..."}
+{"level":20,"time":1707916037742,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916037742,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916037809,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916038513,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1707916038515,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1707916038516,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1707916038519,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1707916038520,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1707916038533,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1707916038535,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1707916038537,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1707916038540,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1707916038541,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1707916038630,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1707916038632,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1707916038633,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1707916038638,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1707916038639,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1707916038640,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1707916038641,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1707916038642,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1707916038643,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1707916038644,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1707916038645,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1707916038651,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1707916038698,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1707916038701,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1707916038727,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1707916038727,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1707916038728,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1707916038814,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 102 commands"}
+{"level":30,"time":1707916038815,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1707916038815,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading contexts..."}
+{"level":30,"time":1707916038816,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1707916038817,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1707916038817,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading events..."}
+{"level":30,"time":1707916038935,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1707916039506,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1707916039506,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1707916039506,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1707916042264,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1707916047996,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Logged in as Wumpus#3454! (1201490831601844260)"}
+{"level":20,"time":1707916047997,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1707916047998,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Music Manager initialized"}
+{"level":30,"time":1707916047998,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1707916048357,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Successfully registered interactions"}
+{"level":50,"time":1707916048420,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","err":{"type":"Error","message":"Error: connect ECONNREFUSED 194.163.132.63:11169","stack":"Error: Error: connect ECONNREFUSED 194.163.132.63:11169\n    at Connection._onerror (/home/container/node_modules/lavaclient/dist/lib/node/Connection.js:145:33)\n    at callListener (/home/container/node_modules/ws/lib/event-target.js:290:14)\n    at WebSocket.onError (/home/container/node_modules/ws/lib/event-target.js:230:9)\n    at WebSocket.emit (node:events:513:28)\n    at emitErrorAndClose (/home/container/node_modules/ws/lib/websocket.js:1008:13)\n    at ClientRequest.<anonymous> (/home/container/node_modules/ws/lib/websocket.js:856:5)\n    at ClientRequest.emit (node:events:513:28)\n    at Socket.socketErrorListener (node:_http_client:494:9)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)"},"msg":"Node \"Music\" encountered an error: Error: connect ECONNREFUSED 194.163.132.63:11169.: Error: connect ECONNREFUSED 194.163.132.63:11169"}
+{"level":30,"time":1707916048424,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" disconnected"}
+{"level":20,"time":1707916048425,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: unable to reconnect"}
+{"level":30,"time":1707916048918,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1707916067289,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","err":{"type":"DiscordjsError","message":"Unable to convert color to a number.","stack":"TypeError [ColorConvert]: Unable to convert color to a number.\n    at resolveColor (/home/container/node_modules/discord.js/src/util/Util.js:260:63)\n    at EmbedBuilder.setColor (/home/container/node_modules/discord.js/src/structures/EmbedBuilder.js:23:36)\n    at suggest (/home/container/src/commands/suggestions/suggest.js:66:6)\n    at Object.interactionRun (/home/container/src/commands/suggestions/suggest.js:46:28)\n    at Object.handleSlashCommand (/home/container/src/handlers/command.js:140:17)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async module.exports (/home/container/src/events/interactions/interactionCreate.js:18:5)","code":"ColorConvert"},"msg":"interactionRun: Unable to convert color to a number."}
+{"level":30,"time":1707916154417,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Validating config file and environment variables"}
+{"level":30,"time":1707916154506,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading commands..."}
+{"level":20,"time":1707916154515,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916154516,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916154544,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916155044,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1707916155045,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1707916155096,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1707916155098,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1707916155099,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1707916155108,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1707916155109,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1707916155110,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1707916155111,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1707916155112,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1707916155120,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1707916155121,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1707916155122,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1707916155123,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1707916155123,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1707916155124,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1707916155124,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1707916155125,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1707916155126,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1707916155127,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1707916155128,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1707916155129,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1707916155131,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1707916155131,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1707916155209,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1707916155209,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1707916155210,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1707916155295,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 102 commands"}
+{"level":30,"time":1707916155295,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1707916155296,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading contexts..."}
+{"level":30,"time":1707916155297,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1707916155297,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1707916155297,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading events..."}
+{"level":30,"time":1707916155395,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1707916155802,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1707916155803,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1707916155803,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1707916158170,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1707916158581,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Logged in as Wumpus#3454! (1201490831601844260)"}
+{"level":20,"time":1707916158582,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1707916158583,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Music Manager initialized"}
+{"level":30,"time":1707916158584,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1707916158814,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","err":{"type":"Error","message":"Error: connect ECONNREFUSED 194.163.132.63:11169","stack":"Error: Error: connect ECONNREFUSED 194.163.132.63:11169\n    at Connection._onerror (/home/container/node_modules/lavaclient/dist/lib/node/Connection.js:145:33)\n    at callListener (/home/container/node_modules/ws/lib/event-target.js:290:14)\n    at WebSocket.onError (/home/container/node_modules/ws/lib/event-target.js:230:9)\n    at WebSocket.emit (node:events:513:28)\n    at emitErrorAndClose (/home/container/node_modules/ws/lib/websocket.js:1008:13)\n    at ClientRequest.<anonymous> (/home/container/node_modules/ws/lib/websocket.js:856:5)\n    at ClientRequest.emit (node:events:513:28)\n    at Socket.socketErrorListener (node:_http_client:494:9)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)"},"msg":"Node \"Music\" encountered an error: Error: connect ECONNREFUSED 194.163.132.63:11169.: Error: connect ECONNREFUSED 194.163.132.63:11169"}
+{"level":30,"time":1707916158819,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" disconnected"}
+{"level":20,"time":1707916158819,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: unable to reconnect"}
+{"level":30,"time":1707916158942,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Successfully registered interactions"}
+{"level":30,"time":1707916160287,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1707916599725,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Validating config file and environment variables"}
+{"level":30,"time":1707916599799,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading commands..."}
+{"level":20,"time":1707916599808,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916599808,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916599836,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1707916600398,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1707916600398,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1707916600399,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1707916600401,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1707916600401,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1707916600410,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1707916600410,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1707916600411,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1707916600412,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1707916600413,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1707916600419,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1707916600420,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1707916600421,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1707916600422,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1707916600422,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1707916600422,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1707916600423,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1707916600423,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1707916600424,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1707916600424,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1707916600425,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1707916600426,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1707916600436,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1707916600437,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1707916600497,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1707916600498,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1707916600498,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1707916600519,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 102 commands"}
+{"level":30,"time":1707916600519,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1707916600519,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading contexts..."}
+{"level":30,"time":1707916600520,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1707916600520,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1707916600521,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading events..."}
+{"level":30,"time":1707916600615,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1707916601002,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1707916601002,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1707916601002,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1707916603462,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1707916603926,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Logged in as Wumpus#3454! (1201490831601844260)"}
+{"level":20,"time":1707916603927,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1707916603928,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Music Manager initialized"}
+{"level":30,"time":1707916603928,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1707916604213,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","err":{"type":"Error","message":"Error: connect ECONNREFUSED 194.163.132.63:11169","stack":"Error: Error: connect ECONNREFUSED 194.163.132.63:11169\n    at Connection._onerror (/home/container/node_modules/lavaclient/dist/lib/node/Connection.js:145:33)\n    at callListener (/home/container/node_modules/ws/lib/event-target.js:290:14)\n    at WebSocket.onError (/home/container/node_modules/ws/lib/event-target.js:230:9)\n    at WebSocket.emit (node:events:513:28)\n    at emitErrorAndClose (/home/container/node_modules/ws/lib/websocket.js:1008:13)\n    at ClientRequest.<anonymous> (/home/container/node_modules/ws/lib/websocket.js:856:5)\n    at ClientRequest.emit (node:events:513:28)\n    at Socket.socketErrorListener (node:_http_client:494:9)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)"},"msg":"Node \"Music\" encountered an error: Error: connect ECONNREFUSED 194.163.132.63:11169.: Error: connect ECONNREFUSED 194.163.132.63:11169"}
+{"level":30,"time":1707916604220,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" disconnected"}
+{"level":20,"time":1707916604220,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: unable to reconnect"}
+{"level":30,"time":1707916604402,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Successfully registered interactions"}
+{"level":30,"time":1707916605600,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1707920950931,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Validating config file and environment variables"}
+{"level":30,"time":1707920951013,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading commands..."}
+{"level":20,"time":1707920951020,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1707920951021,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1707920951115,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1707920951740,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1707920951742,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1707920951743,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1707920951745,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1707920951747,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1707920951760,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1707920951761,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1707920951762,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1707920951764,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1707920951795,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1707920951805,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1707920951807,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1707920951808,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1707920951808,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1707920951809,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1707920951809,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1707920951810,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1707920951810,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1707920951811,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1707920951812,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1707920951813,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1707920951814,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1707920951817,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1707920951818,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1707920951836,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1707920951837,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1707920951837,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1707920951909,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 102 commands"}
+{"level":30,"time":1707920951909,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1707920951909,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading contexts..."}
+{"level":30,"time":1707920951910,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1707920951910,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1707920951911,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading events..."}
+{"level":30,"time":1707920952004,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1707920952505,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1707920952506,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1707920952506,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1707920954916,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1707920955438,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Logged in as Wumpus#3454! (1201490831601844260)"}
+{"level":20,"time":1707920955440,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1707920955442,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Music Manager initialized"}
+{"level":30,"time":1707920955442,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1707920955627,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","err":{"type":"Error","message":"Error: connect ECONNREFUSED 194.163.132.63:11169","stack":"Error: Error: connect ECONNREFUSED 194.163.132.63:11169\n    at Connection._onerror (/home/container/node_modules/lavaclient/dist/lib/node/Connection.js:145:33)\n    at callListener (/home/container/node_modules/ws/lib/event-target.js:290:14)\n    at WebSocket.onError (/home/container/node_modules/ws/lib/event-target.js:230:9)\n    at WebSocket.emit (node:events:513:28)\n    at emitErrorAndClose (/home/container/node_modules/ws/lib/websocket.js:1008:13)\n    at ClientRequest.<anonymous> (/home/container/node_modules/ws/lib/websocket.js:856:5)\n    at ClientRequest.emit (node:events:513:28)\n    at Socket.socketErrorListener (node:_http_client:494:9)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)"},"msg":"Node \"Music\" encountered an error: Error: connect ECONNREFUSED 194.163.132.63:11169.: Error: connect ECONNREFUSED 194.163.132.63:11169"}
+{"level":30,"time":1707920955632,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" disconnected"}
+{"level":20,"time":1707920955632,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: unable to reconnect"}
+{"level":30,"time":1707920955884,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Successfully registered interactions"}
+{"level":30,"time":1707920957091,"pid":36,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1707921219318,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Validating config file and environment variables"}
+{"level":30,"time":1707921219397,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading commands..."}
+{"level":20,"time":1707921219403,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1707921219404,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1707921219441,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1707921220040,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1707921220041,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1707921220042,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1707921220044,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1707921220045,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1707921220096,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1707921220097,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1707921220098,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1707921220099,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1707921220099,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1707921220106,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1707921220107,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1707921220107,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1707921220108,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1707921220108,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1707921220108,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1707921220109,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1707921220109,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1707921220109,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1707921220110,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1707921220111,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1707921220112,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1707921220113,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1707921220114,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1707921220125,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1707921220126,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1707921220126,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1707921220202,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 102 commands"}
+{"level":30,"time":1707921220202,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1707921220203,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading contexts..."}
+{"level":30,"time":1707921220203,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1707921220204,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1707921220204,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading events..."}
+{"level":30,"time":1707921220319,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1707921220716,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1707921220716,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1707921220717,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1707921223279,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1707921223721,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Logged in as Wumpus#3454! (1201490831601844260)"}
+{"level":20,"time":1707921223721,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1707921223723,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Music Manager initialized"}
+{"level":30,"time":1707921223723,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1707921223856,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","err":{"type":"Error","message":"Error: connect ECONNREFUSED 194.163.132.63:11169","stack":"Error: Error: connect ECONNREFUSED 194.163.132.63:11169\n    at Connection._onerror (/home/container/node_modules/lavaclient/dist/lib/node/Connection.js:145:33)\n    at callListener (/home/container/node_modules/ws/lib/event-target.js:290:14)\n    at WebSocket.onError (/home/container/node_modules/ws/lib/event-target.js:230:9)\n    at WebSocket.emit (node:events:513:28)\n    at emitErrorAndClose (/home/container/node_modules/ws/lib/websocket.js:1008:13)\n    at ClientRequest.<anonymous> (/home/container/node_modules/ws/lib/websocket.js:856:5)\n    at ClientRequest.emit (node:events:513:28)\n    at Socket.socketErrorListener (node:_http_client:494:9)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)"},"msg":"Node \"Music\" encountered an error: Error: connect ECONNREFUSED 194.163.132.63:11169.: Error: connect ECONNREFUSED 194.163.132.63:11169"}
+{"level":30,"time":1707921223861,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" disconnected"}
+{"level":20,"time":1707921223861,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: unable to reconnect"}
+{"level":30,"time":1707921224198,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Successfully registered interactions"}
+{"level":30,"time":1707921225480,"pid":38,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Giveaway Manager initialized"}
+{"level":30,"time":1707921517501,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Validating config file and environment variables"}
+{"level":30,"time":1707921517557,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading commands..."}
+{"level":20,"time":1707921517563,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command anti. Category AUTOMOD is disabled"}
+{"level":20,"time":1707921517564,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command autodelete. Category AUTOMOD is disabled"}
+{"level":20,"time":1707921517699,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping Command automod. Category AUTOMOD is disabled"}
+{"level":20,"time":1707921518405,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1707921518406,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1707921518407,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1707921518409,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1707921518410,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1707921518420,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1707921518421,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1707921518422,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1707921518424,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1707921518425,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1707921518433,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1707921518434,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1707921518435,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1707921518436,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1707921518437,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1707921518437,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1707921518438,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1707921518439,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1707921518440,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1707921518441,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1707921518442,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1707921518443,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1707921518445,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1707921518446,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1707921518461,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1707921518462,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1707921518462,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1707921518525,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 102 commands"}
+{"level":30,"time":1707921518525,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1707921518525,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading contexts..."}
+{"level":30,"time":1707921518596,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1707921518596,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1707921518596,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loading events..."}
+{"level":30,"time":1707921518632,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":40,"time":1707921519097,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"VersionCheck: 5.5.0 update is available"}
+{"level":40,"time":1707921519097,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"download: https://github.com/saiteja-madha/discord-js-bot/releases/latest"}
+{"level":30,"time":1707921519097,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1707921521617,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1707921522155,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Logged in as Wumpus#3454! (1201490831601844260)"}
+{"level":20,"time":1707921522156,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: creating websocket..."}
+{"level":30,"time":1707921522157,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Music Manager initialized"}
+{"level":30,"time":1707921522157,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Initializing giveaways manager..."}
+{"level":50,"time":1707921522571,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","err":{"type":"Error","message":"Error: connect ECONNREFUSED 194.163.132.63:11169","stack":"Error: Error: connect ECONNREFUSED 194.163.132.63:11169\n    at Connection._onerror (/home/container/node_modules/lavaclient/dist/lib/node/Connection.js:145:33)\n    at callListener (/home/container/node_modules/ws/lib/event-target.js:290:14)\n    at WebSocket.onError (/home/container/node_modules/ws/lib/event-target.js:230:9)\n    at WebSocket.emit (node:events:513:28)\n    at emitErrorAndClose (/home/container/node_modules/ws/lib/websocket.js:1008:13)\n    at ClientRequest.<anonymous> (/home/container/node_modules/ws/lib/websocket.js:856:5)\n    at ClientRequest.emit (node:events:513:28)\n    at Socket.socketErrorListener (node:_http_client:494:9)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:157:8)"},"msg":"Node \"Music\" encountered an error: Error: connect ECONNREFUSED 194.163.132.63:11169.: Error: connect ECONNREFUSED 194.163.132.63:11169"}
+{"level":30,"time":1707921522576,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" disconnected"}
+{"level":20,"time":1707921522576,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Node \"Music\" debug: connection: unable to reconnect"}
+{"level":30,"time":1707921522618,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Successfully registered interactions"}
+{"level":30,"time":1707921523755,"pid":37,"hostname":"c980a554-ee61-4231-9447-5d12338fa974","msg":"Giveaway Manager initialized"}
